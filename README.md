@@ -7,7 +7,7 @@ A web-based Emotion Detection application built using **Python**, **Streamlit**,
 
 ## **Live Demo**
 
-Try the app here: [**Emotion Detection Demo**]()  
+Try the app here: [**Emotion Detection Demo**](https://emotiondetection-kn9bovssfogh8epmoj2use.streamlit.app/)  
 
 
 ---
